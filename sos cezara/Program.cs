@@ -43,7 +43,7 @@ void zmiana(string kod, int klucz)
             szyfr += nlitery;
         }
     }  
-    Console.WriteLine("\n" + szyfr);
+    Console.WriteLine(szyfr);
 }
 
       
